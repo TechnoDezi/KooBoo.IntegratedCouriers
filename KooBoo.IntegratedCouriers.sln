@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KooBoo.IntegratedCouriers", "KooBoo.IntegratedCouriers\KooBoo.IntegratedCouriers.csproj", "{5C49FF27-E11B-4F65-A9D2-FFBFED84078A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KooBoo.IntegratedCouriers.Test", "KooBoo.IntegratedCouriers.Test\KooBoo.IntegratedCouriers.Test.csproj", "{E05D65C7-F769-4752-8DCA-7823047C11E6}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://technodezi.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = KooBoo.IntegratedCouriers\\KooBoo.IntegratedCouriers.csproj
+		SccProjectName1 = KooBoo.IntegratedCouriers
+		SccLocalPath1 = KooBoo.IntegratedCouriers
+		SccProjectUniqueName2 = KooBoo.IntegratedCouriers.Test\\KooBoo.IntegratedCouriers.Test.csproj
+		SccProjectName2 = KooBoo.IntegratedCouriers.Test
+		SccLocalPath2 = KooBoo.IntegratedCouriers.Test
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C49FF27-E11B-4F65-A9D2-FFBFED84078A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C49FF27-E11B-4F65-A9D2-FFBFED84078A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C49FF27-E11B-4F65-A9D2-FFBFED84078A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C49FF27-E11B-4F65-A9D2-FFBFED84078A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E05D65C7-F769-4752-8DCA-7823047C11E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E05D65C7-F769-4752-8DCA-7823047C11E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E05D65C7-F769-4752-8DCA-7823047C11E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E05D65C7-F769-4752-8DCA-7823047C11E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
